@@ -1,4 +1,3 @@
-source ~/peda/peda.py
-
-unset env LINES
-unset env COLUMNS
+source /home/jc/pwndbg/gdbinit.py
+set disassembly-flavor intel
+unset env
