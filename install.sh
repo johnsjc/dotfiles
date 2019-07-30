@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Creating symlinks.."
 
 create_symlink() {
